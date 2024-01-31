@@ -1,6 +1,6 @@
 <h1>Projeto: Teste de CRUD com react, nodejs e mysql</h1>
 
-A ideia central aqui é simplesmente descobrir em quanto tempo eu consigo realizar a construção básica de um sistema de CRUD (e é claro, se divertir no caminho), utilizando das tecnologias centrais do javascript (react e nodejs), em conunto com uma base de dados mysql.
+A ideia central aqui é simplesmente descobrir em quanto tempo eu consigo realizar a construção básica de um sistema de CRUD para login (e é claro, se divertir no caminho), utilizando das tecnologias centrais do javascript (react e nodejs), em conunto com uma base de dados mysql.
 
 <h1>Execução:</h1>
 
