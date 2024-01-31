@@ -12,12 +12,16 @@ Após isso, você pode começar iniciando o servidor node com:
 
 <code>cd api</code>
 <br/>
+<code>npm install</code>
+<br/>
 <code>npm run dev</code>
 
 (o script dev foi inserido dentro do contexto de configuração para realizar em conjunto com o servidor o nodemon para um melhor controle dos logs)
 
 Em seguida, você poderá iniciar o app, utilizando:
 <code>cd app</code>
+<br/>
+<code>npm install</code>
 <br/>
 <code>npm start</code>
 
